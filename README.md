@@ -1,3 +1,3 @@
 # Demo
 This is my first repository 
-Author - Harshal Galani
+Author - Harshal Galani (college)
